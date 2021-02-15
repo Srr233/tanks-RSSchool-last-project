@@ -1,10 +1,10 @@
 # Game
 Install dependencies
-###`npm i`
+### `npm i`
 Start dev server
-###`npm start`
+### `npm start`
 Build
-###`npm prod`
+### `npm prod`
 Test
-###`npm test`
+### `npm test`
 
